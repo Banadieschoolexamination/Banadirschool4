@@ -69,8 +69,8 @@
     </style>
     <body>
         
-        <H3> Hassan Mohamed Yusuf</H3>
-        <H3> ID: 003</H3>
+        <H3> Abdishakur Osman Ali</H3>
+        <H3> ID: 0014</H3>
        
         <hr>
         <table>
@@ -91,15 +91,15 @@
            
         </tr>
         <td> Word</td>
-        <td> 95</td>
-        <td> B</td>
+        <td> 90</td>
+        <td> A</td>
         <td> Computer</td>
         <tr>
 
        
     </tr>
     <td> Excel</td>
-    <td> 90</td>
+    <td> 72</td>
     <td> C</td>
     <td> Computer</td>
     <tr>
@@ -107,13 +107,13 @@
 </tr>
 <td> Powerpoint</td>
 <td> 80</td>
-<td> A+</td>
+<td> B</td>
 <td> Computer</td>
 <tr>
 </tr>
 <td> Basic Security</td>
 <td> 85</td>
-<td> C</td>
+<td> B+</td>
 <td> Computer</td>
 <tr>
 
