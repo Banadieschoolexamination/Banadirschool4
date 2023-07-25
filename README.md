@@ -99,14 +99,14 @@
        
     </tr>
     <td> Excel</td>
-    <td> 72</td>
-    <td> C</td>
+    <td> 87</td>
+    <td> B+</td>
     <td> Computer</td>
     <tr>
 
 </tr>
 <td> Powerpoint</td>
-<td> 80</td>
+<td> 82</td>
 <td> B</td>
 <td> Computer</td>
 <tr>
